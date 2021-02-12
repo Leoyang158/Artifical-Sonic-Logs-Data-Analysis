@@ -4,3 +4,6 @@ Basic Challenge: "The challenge will be a regression exercise to generate artifi
 #Purpose
 The purpose of this challenge is to benchmark and discover new approaches that may lead to a class of more reliable production forecasts than traditional
 approaches such as Arps, modified hyperbolic, Duong and logistic DCA models.
+
+#Programming Language: Python
+#Packages: Numpy, Pandas, Sklearning #xgboost #random_forest
