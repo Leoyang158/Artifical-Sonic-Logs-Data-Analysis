@@ -27,7 +27,7 @@ Output: DT and DTS
 - Improvement: In the process of data preprocessing, the most accurate way is to map variables to high-dimensional space. The advantage is that all the information of the original data is completely retained, without considering missing values, without considering issues such as linear inseparability.
 
 Visualization
-![image](https://user-images.githubusercontent.com/62164871/111835723-4d312a00-88c3-11eb-9a12-c004fef6e0be.png)
+- ![image](https://user-images.githubusercontent.com/62164871/111835723-4d312a00-88c3-11eb-9a12-c004fef6e0be.png)
 
 #Programming Language: Python
 #Packages: Numpy, Pandas, Sklearning #xgboost #random_forest
