@@ -27,7 +27,6 @@ Cross-validation + Comparison of accuracy curves between test group and training
 Improvement: In the process of data preprocessing, the most accurate way is to map variables to high-dimensional space. The advantage is that all the information of the original data is completely retained, without considering missing values, without considering issues such as linear inseparability.
 
 Visualization
-![image](https://user-images.githubusercontent.com/62164871/111835711-47d3df80-88c3-11eb-86d2-c5497e047b6c.png)
 ![image](https://user-images.githubusercontent.com/62164871/111835723-4d312a00-88c3-11eb-9a12-c004fef6e0be.png)
 
 #Programming Language: Python
