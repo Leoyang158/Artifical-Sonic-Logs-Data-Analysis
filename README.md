@@ -21,10 +21,10 @@ Output: DT and DTS
 5. Use Pearson and Spearman correlation method to select features and rank the relevance of features to prepare for modeling.
 
 #Methodology and improvement 
-Try Decision Tree, Random Forest, and xgbooster gradient boosting, and compared their corresponding accuracy. Xgbooster gradient Boosting > Random Tree > Decision Tree 
-Hyperparameter Optimization (The Best could be 98! ) 
-Cross-validation + Comparison of accuracy curves between test group and training group --- The purpose is to determine whether the forecast curve has a trend of overfitting or underfitting 
-Improvement: In the process of data preprocessing, the most accurate way is to map variables to high-dimensional space. The advantage is that all the information of the original data is completely retained, without considering missing values, without considering issues such as linear inseparability.
+- Try Decision Tree, Random Forest, and xgbooster gradient boosting, and compared their corresponding accuracy. Xgbooster gradient Boosting > Random Tree > Decision Tree 
+- Hyperparameter Optimization (The Best could be 98! ) 
+- Cross-validation + Comparison of accuracy curves between test group and training group --- The purpose is to determine whether the forecast curve has a trend of overfitting or underfitting 
+- Improvement: In the process of data preprocessing, the most accurate way is to map variables to high-dimensional space. The advantage is that all the information of the original data is completely retained, without considering missing values, without considering issues such as linear inseparability.
 
 Visualization
 ![image](https://user-images.githubusercontent.com/62164871/111835723-4d312a00-88c3-11eb-9a12-c004fef6e0be.png)
