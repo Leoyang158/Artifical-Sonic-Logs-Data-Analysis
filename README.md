@@ -13,7 +13,7 @@ Formulation: Predict sonic log through a non linear mapping between features
 Inputs: Available well logs (Porosity, Gammar Ray, Resistivity & Compressional slowness)
 Output: DT and DTS
 
-#Data Pre-processing Steps
+#Data Pre-Processing Steps
 1. Identify outliers with the 13/5 Interquartile Rangers rule
 2. Fill Nan values with median in the test set. Though that will cause noise, compared with building other predictive model to fill the gap, the negative effect is less. 
 3. Based on statistical methods, most of the outliers has been removed. We then use isolation forest to gently remove some outliers near the boundary to ensure the stability and standardization of the dataset. 
